@@ -17,7 +17,7 @@ Go to google's [AI Studio](https://aistudio.google.com/app/apikey) and login usi
 ## INSERT_USER_TOKEN
 Run the following on your browser console on your preferred account then it will copied to your clipboard:
 
-```
+```js
 window.webpackChunkdiscord_app.push([
   [Math.random()],
   {},
