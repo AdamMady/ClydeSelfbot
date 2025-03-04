@@ -44,9 +44,8 @@ console.log(`%cYou now have your token in the clipboard!`, 'font-size: 16px');
 1. Make sure [developer mode](https://discord.com/developers/docs/activities/building-an-activity#step-0-enable-developer-mode) is enabled.
 2. Right click on your main account's profile picture on any message that you sent.
 3. Click "Copy User ID".
-4. Replace INSERT_USERID in the owner id as that.
-5. Add it also in the direct message ids.
-6. Do the same for any other users you want to add to the list.
+4. Replace INSERT_USERID in the owner id with it and one direct message id with it aswell.
+5. Add all your friends in the direct message user ids by copying their userids so they can use the bot aswell.
 
 # How to run
 Open command prompt
