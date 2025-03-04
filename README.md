@@ -15,7 +15,7 @@ Adjust the index.js "INSERT_GEMINI_KEY", 'INSERT_USER_TOKEN' and 'INSERT_USERID'
 Go to google's [AI Studio](https://aistudio.google.com/app/apikey) and login using your google account, Then generate an API Key and copy it.
 
 ## INSERT_USER_TOKEN
-Run the following on your browser console on your preferred account then it will copied to your clipboard:
+Run the following on your browser console on discord web, make sure you're logged in your preferred account (not your main account) then it will copied to your clipboard:
 
 ```js
 window.webpackChunkdiscord_app.push([
